@@ -1,0 +1,1 @@
+This is a code for looping number from 10 back to 1 and these are odd numbers so to do this we include if statement where we give a condition that if a number bring a remainder of 1 then print the number, thus the number will be even by having a remainder of 1
